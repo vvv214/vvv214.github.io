@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -23,26 +23,20 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service
 ======
-* 
+* Student PC: SP'18
+* External Reviewer: PoPETS'19, PoPETS'18, ESORICS'18, TOPS'18, IoTJ'18, TIFS'17, TOPS'17, TMC'17}{}{}{}{}
 
 Awards
 ======
-* 2018 SP student traval grant # 1200
-* 2018 Emil Stefanov Memorial Fellowship # 2000
-* 2017 CCS student traval grant # 500
-* 2017 USENIX student traval grant # 750+registration
+<!-- * 2018 CCS student traval grant -->
+* 2018 SP student traval grant 
+* 2018 Emil Stefanov Memorial Fellowship 
+* 2017 CCS student traval grant 
+* 2017 USENIX student traval grant 
 * 2017 CERIAS/Intel Research Assistantship
 * 2016 CCS'16 paper won 2nd place CERIAS best poster award
 * Numerous from undergrad
