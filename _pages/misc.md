@@ -10,13 +10,18 @@ redirect_from:
 
 {% include base_path %}
 
+Writing Papers
+======
+
+Graduate Research
+======
+
 Interest
 ======
-* Ph.D in Computer Science, Purdue University, 2020 (expected)
-* B.Eng. in Software Engineering, Fudan University, 2015
+I like to play sports.
 
 
 Erdos Number
 ======
-
+3: Rudolf Fleischer - Noga Alon - Paul Erdös
 
