@@ -9,11 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Writing Papers
+Writing
 ======
+Resources I like on writing:
+* 
 
 Graduate Research
 ======
+Resources I like on doing research:
+* 
 
 Interest
 ======
