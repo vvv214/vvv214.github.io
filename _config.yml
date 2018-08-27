@@ -74,7 +74,7 @@ social:
 analytics:
   provider               :  "custom" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : 
+    tracking_id          :
 
 
 # Site Author
@@ -210,22 +210,23 @@ defaults:
       type: teaching
     values:
       layout: single
+      read_time: false
+      author_profile: true
+      share: false
+      comments: false
+  # _articles
+  - scope:
+      path: ""
+      type: articles
+    values:
+      layout: single
       author_profile: true
       share: true
       comments: true
-  # # _publications
-  # - scope:
-  #     path: ""
-  #     type: publications
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
-  # _portfolio
+  # _expressions
   - scope:
       path: ""
-      type: portfolio
+      type: expressions
     values:
       layout: single
       author_profile: true
