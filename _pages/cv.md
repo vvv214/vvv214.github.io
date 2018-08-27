@@ -28,7 +28,8 @@ Publications
 Service
 ======
 * Student PC: SP'18
-* External Reviewer: PoPETS'19, PoPETS'18, ESORICS'18, TOPS'18, IoTJ'18, TIFS'17, TOPS'17, TMC'17}{}{}{}{}
+* External Reviewer: PoPETS'19, PoPETS'18, ESORICS'18
+* Journal Reviewer: TOPS'18, IoTJ'18, TIFS'17, TOPS'17, TMC'17
 
 Awards
 ======

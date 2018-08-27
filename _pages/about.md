@@ -12,6 +12,10 @@ I am a fourth-year PhD student from the Department of Computer Science, Purdue U
 My advisor is Prof. Ninghui Li.
 Before that, I obtained my Bachelor's degree in Software School, Fudan University, under the supervision of Prof. Yunlei Zhao.
 
-I am interested in data privacy.  Specifically, I study Differential Privacy and Local Differential Privacy.
+I am interested in data privacy.  Specifically, I study Differential Privacy and Local Differential Privacy.  
+
+
+**News** : I will attend CCS'18. See you in Toronto!
+
 
 Last updated: Aug. 27th, 2018
