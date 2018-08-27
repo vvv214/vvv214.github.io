@@ -9,10 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * Ph.D in Computer Science, Purdue University, 2020 (expected)
 * B.Eng. in Software Engineering, Fudan University, 2015
+
 
 Work experience
 ======
@@ -20,16 +22,13 @@ Work experience
   * Alibaba Inc.
   * Supervisor: Dr. Bolin Ding
   
-
-Publications
-======
-
   
 Service
 ======
 * Student PC: SP'18
 * External Reviewer: PoPETS'19, PoPETS'18, ESORICS'18
 * Journal Reviewer: TOPS'18, IoTJ'18, TIFS'17, TOPS'17, TMC'17
+
 
 Awards
 ======
