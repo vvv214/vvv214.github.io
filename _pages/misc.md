@@ -18,14 +18,14 @@ Personal
 
 Interest
 ======
-* Sports: 
-  * Above average: basketball>swim>hiking>running>badminton
-  * Like to play: football, soccer, frisbee, rock climbing, tennis, golf
-  * Do not like: table tennis, workout
-
-* Cooking (and tasting Chinese food)
-* Movie (especially summary videos)
-* Music (I played Erhu!)
+* Playing sports: 
+  - Above average: basketball>swim>hiking>running>badminton
+  - Like to play: football, soccer, frisbee, rock climbing, tennis, golf
+  - Do not like: table tennis, workout
+* Playing games, including board games.
+* Cooking (tell me the good restaurants!)
+* Watching movies (especially summary videos)
+* Listening to music (I played Erhu!)
 
 
 Erdos Number
