@@ -10,9 +10,9 @@ redirect_from:
 
 Summary
 ======
-* I have published four first-author papers in top-tier security conferences (CCS'18, SP'18, Usenix'17, CCS'16).
+* I have published 3.5 first-author papers in top-tier security conferences (CCS'18, SP'18, Usenix'17, CCS'16).
 
-* We have two tutorials about LDP in SIGMOD and KIDD 2018. (See https://sites.google.com/view/kdd2018-tutorial/home)
+* We have 2 tutorials about LDP in SIGMOD'18 and KDD'18. (See https://sites.google.com/view/kdd2018-tutorial/home)
 
-* During undergrad, I published three first-author papers in AsiaCCS'16, PloS ONE'15, and SoCG'14.
+* During undergrad, I published 3 first-author papers in AsiaCCS'16, PloS ONE'15, and SoCG'14.
 
