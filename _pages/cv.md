@@ -16,13 +16,22 @@ Education
 * B.Eng. in Software Engineering, Fudan University, 2015
 
 
-Work experience
+Experience
 ======
 * Fall 2018: Research Intern
   * Alibaba Inc.
   * Supervisor: Dr. Bolin Ding
-  
-  
+* Fall 2014: Software Engineer Intern
+  * Ebay Inc., Shanghai
+* Summer 2014: Research Intern
+  * The University of Hong Kong
+  * Supervisor: Prof. Yong Zhang and Prof. Francis Chin
+* Fall 2013: Exchange Student
+  * National Tsing Hua University
+* Summer 2013: Research Intern
+  * University College Dublin
+
+
 Service
 ======
 * Student PC: SP'18
@@ -32,7 +41,7 @@ Service
 
 Awards
 ======
-<!-- * 2018 CCS student traval grant -->
+* 2018 CCS student traval grant
 * 2018 SP student traval grant 
 * 2018 Emil Stefanov Memorial Fellowship 
 * 2017 CCS student traval grant 
