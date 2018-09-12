@@ -41,6 +41,7 @@ Service
 
 Awards
 ======
+* 2018 NIST PSCR Unlinkable Data Challenge: RUNNER-UP and PEOPLE'S CHOICE
 * 2018 CCS student traval grant
 * 2018 SP student traval grant 
 * 2018 Emil Stefanov Memorial Fellowship 
