@@ -15,7 +15,7 @@ Before that, I obtained my Bachelor's degree in Software School, Fudan Universit
 I am interested in data privacy.  Specifically, I study Differential Privacy and Local Differential Privacy.  
 
 
-**News** : I will attend CCS'18. See you in Toronto!
+**News** : No news is good news.
 
 
-Last updated: Aug. 27th, 2018
+Last updated: Nov. 4th, 2018

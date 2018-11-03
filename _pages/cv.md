@@ -42,15 +42,17 @@ Service
 Awards
 ======
 * 2018 NIST PSCR Unlinkable Data Challenge: RUNNER-UP and PEOPLE'S CHOICE
-* 2018 CCS student traval grant
-* 2018 SP student traval grant 
 * 2018 Emil Stefanov Memorial Fellowship 
-* 2017 CCS student traval grant 
-* 2017 USENIX student traval grant 
 * 2017 CERIAS/Intel Research Assistantship
 * 2016 CCS'16 paper won 2nd place CERIAS best poster award
+* Some travel grants
 * Numerous from undergrad
 <!---
+
+* 2018 CCS student traval grant
+* 2018 SP student traval grant 
+* 2017 CCS student traval grant 
+* 2017 USENIX student traval grant 
 \cventry{2015}{Excellent Graduation Thesis}{Only One in Software School}{}{}{}
 %{Rank 1/76}{}{}{}
 \cventry{2015}{Graduate Star}{1 of 20 in Fudan University}{}{}{}
