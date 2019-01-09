@@ -35,12 +35,13 @@ Experience
 Service
 ======
 * Student PC: SP'18
-* External Reviewer: PoPETS'19, PoPETS'18, ESORICS'18
+* External Reviewer: PoPETS'19, FC'19, PoPETS'18, ESORICS'18
 * Journal Reviewer: TOPS'18, IoTJ'18, TIFS'17, TOPS'17, TMC'17
 
 
 Awards
 ======
+* 2019 NIST PSCR Differential Privacy Synthetic Data Challenge: 2nd place
 * 2018 NIST PSCR Unlinkable Data Challenge: RUNNER-UP and PEOPLE'S CHOICE
 * 2018 Emil Stefanov Memorial Fellowship 
 * 2017 CERIAS/Intel Research Assistantship

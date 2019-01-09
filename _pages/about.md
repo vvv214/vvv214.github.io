@@ -18,4 +18,4 @@ I am interested in data privacy.  Specifically, I study Differential Privacy and
 **News** : No news is good news.
 
 
-Last updated: Nov. 4th, 2018
+Last updated: Jan. 9th, 2019
