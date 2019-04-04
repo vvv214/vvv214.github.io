@@ -21,7 +21,9 @@ Experience
 * Fall 2018: Research Intern
   * Alibaba Inc.
   * Supervisor: Dr. Bolin Ding
+
 <!---
+
 * Fall 2014: Software Engineer Intern
   * Ebay Inc., Shanghai
 * Summer 2014: Research Intern
@@ -31,6 +33,7 @@ Experience
   * National Tsing Hua University
 * Summer 2013: Research Intern
   * University College Dublin
+  
 -->
 
 Service
