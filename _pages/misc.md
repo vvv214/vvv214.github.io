@@ -12,19 +12,18 @@ redirect_from:
 
 Personal
 ======
-* I am curious about many things. 
+* I am curious about new things. 
+* I am enthusiastic about optimizing my daily activities.
 * I like to finish trivial things quite early (e.g., I finished this website).
-
 
 Interest
 ======
-* Playing sports: 
-  - Above average: basketball>swim>hiking>running>badminton
-  - Like to play: football, soccer, frisbee, rock climbing, tennis, golf
+* Playing sports: I like to participate in fun activities.
+  - Enjoy: basketball>hiking>badminton>tennis>golf>swim>running
+  - Like to watch (too lazy to play myself): Warcraft 3, Heroes of Might & Magic 3, Civilization
   - Do not like: table tennis, workout
-* Playing games, including board games.
-* Cooking (tell me the good restaurants!)
-* Watching movies (especially summary videos)
+* Cooking
+* Watching movies (and movie recaps)
 * Listening to music (I played Erhu!)
 
 
