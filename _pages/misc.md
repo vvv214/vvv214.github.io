@@ -24,7 +24,6 @@ Interest
   - Do not like: table tennis, workout
 * Cooking
 * Watching movies (and movie recaps)
-* Listening to music (I played Erhu!)
 
 
 Erdos Number
