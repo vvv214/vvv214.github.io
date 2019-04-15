@@ -18,6 +18,6 @@ Summary
 
 * During undergrad, I published 2.x first-author papers in AsiaCCS'16, PloS ONE'15, and SoCG'14 (alphabetical order).
 
-* Details are maintained in [Google Scholar](https://scholar.google.com/citations?user=TkgyXGwAAAAJ&hl=en&oi=ao) and [DBLP](https://dblp.uni-trier.de/pers/hd/w/Wang_0001:Tianhao).
+* Details are given below (also maintained in [Google Scholar](https://scholar.google.com/citations?user=TkgyXGwAAAAJ&hl=en&oi=ao) and [DBLP](https://dblp.uni-trier.de/pers/hd/w/Wang_0001:Tianhao)).
 
-<script src="https://bibbase.org/show?bib=https://dblp.org/pid/145/3288-1.bib&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Ftianhao.wang%2Ffiles%2Ftianhao.bib&jsonp=1"></script>
