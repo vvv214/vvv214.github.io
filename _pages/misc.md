@@ -12,9 +12,9 @@ redirect_from:
 
 Personal
 ======
-* I am curious about new things. 
-* I am enthusiastic about optimizing my daily activities.
-* I like to finish trivial things quite early (e.g., I finished this website).
+* Curious about new things. 
+* Enthusiastic about optimizing my daily activities.
+* Prefer to finish trivial things first (e.g., I finished this website).
 
 Interest
 ======
@@ -26,9 +26,9 @@ Interest
 * Watching movies (and movie recaps)
 
 
-Erdos Number
+Others
 ======
-3: Rudolf Fleischer - Noga Alon - Paul Erdös
+* Erdos Number 3: Rudolf Fleischer - Noga Alon - Paul Erdös
 
 
 <!-- 
