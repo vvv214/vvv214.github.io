@@ -18,9 +18,7 @@ Education
 
 Experience
 ======
-* Fall 2018: Research Intern
-  * Alibaba Inc.
-  * Supervisor: Dr. Bolin Ding
+* Research Intern, Alibaba Inc., Fall 2018
 
 <!---
 
@@ -38,6 +36,7 @@ Experience
 
 Service
 ======
+* PC: Globecom'19
 * Student PC: SP'18
 * External Reviewer: PoPETS'19, FC'19, PoPETS'18, ESORICS'18
 * Journal Reviewer: TDSC'19, TKDE'19, TOPS'19, TIFS'18, TOPS'18, IoTJ'18, TIFS'17, TOPS'17, TMC'17
