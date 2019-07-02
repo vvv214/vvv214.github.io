@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Purdue University, 2020 (expected)
+* Ph.D in Computer Science, Purdue University, expected 2021 
 * B.Eng. in Software Engineering, Fudan University, 2015
 
 
@@ -36,7 +36,7 @@ Experience
 
 Service
 ======
-* PC: Globecom'19
+* PC: TPDP'19, Globecom'19
 * Student PC: SP'18
 * External Reviewer: PoPETS'19, FC'19, PoPETS'18, ESORICS'18
 * Journal Reviewer: TDSC'19, TKDE'19, TOPS'19, TIFS'18, TOPS'18, IoTJ'18, TIFS'17, TOPS'17, TMC'17
@@ -51,7 +51,7 @@ Awards
 * 2017 CERIAS/Intel Research Assistantship
 * 2016 CCS'16 paper won 2nd place CERIAS best poster award
 * Some travel grants
-* Numerous from undergrad
+* Some from undergrad
 
 <!---
 
