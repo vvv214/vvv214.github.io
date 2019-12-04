@@ -12,6 +12,7 @@ redirect_from:
 
 Personal
 ======
+* I grew up in Zibo, Shandong Province, China.  I then spent 8 years in Shanghai.  After that, I've been staying in West Lafayette, IN.
 * Curious about new things. 
 * Enthusiastic about optimizing my daily activities.
 * Prefer to finish trivial things first (e.g., I finished this website).
