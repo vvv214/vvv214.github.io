@@ -10,9 +10,9 @@ redirect_from:
 
 Summary
 ======
-* I have published 3.5 first-author papers in top-tier security conferences: CCS'18 (co-first author), SP'18, Usenix'17, CCS'16.
+* I have published 4.5 first-author papers in top-tier security conferences: NDSS'20, CCS'18 (co-first author), SP'18, Usenix'17, CCS'16.
 
-* I also like the database community. We have 1 paper at SIGMOD'19, 1 demo at VLDB'19 about the LDP system we built in Alibaba (coming soon), and 2 tutorials in SIGMOD'18 and KDD'18 about LDP [Privacy at Scale: Local Differential Privacy in Practice](https://sites.google.com/view/kdd2018-tutorial/home).
+* I also like the database community. We have 2 papers at SIGMOD, 1 demo at VLDB'19, and 2 tutorials at SIGMOD'18 and KDD'18 [Privacy at Scale: Local Differential Privacy in Practice](https://sites.google.com/view/kdd2018-tutorial/home).
 
 * I maintain a list of my LDP papers and implementations [LDP_Protocols](https://github.com/vvv214/LDP_Protocols). 
 
