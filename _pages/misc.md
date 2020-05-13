@@ -12,7 +12,7 @@ redirect_from:
 
 Personal
 ======
-* I grew up in Zibo, Shandong Province, China.  I then spent 8 years in Shanghai.  After that, I've been staying in West Lafayette, IN.
+* I grew up in Zibo, Shandong. At the age of 15, I moved to Shanghai, in which I live for 8 years. During my undergrad, I spent 2 months in Dublin, 4 months in Taiwan, and 2 months in Hong Kong.
 * Curious about new things. 
 * Enthusiastic about optimizing my daily activities.
 * Prefer to finish trivial things first (e.g., I finished this website).

@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a fifth-year PhD student from the Department of Computer Science, Purdue University.
-I plan to graduate in six years (Fall 2021).
+I plan to graduate in Fall 2021.
 My advisor is Prof. Ninghui Li.
 In Fall 2018, I did an intern in Alibaba with Dr. Bolin Ding.
 Before that, I obtained my Bachelor's degree in Software School, Fudan University, under the supervision of Prof. Yunlei Zhao.
