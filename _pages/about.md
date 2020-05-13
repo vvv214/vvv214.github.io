@@ -18,6 +18,7 @@ Before that, I obtained my Bachelor's degree in Software School, Fudan Universit
 I study differential privacy (DP) and local DP (LDP), with a focus on designing algorithms that work in practice. I started my research from designing algorithms for computational geometry problems; then I designed an searchable encryption (SSE) scheme.
 
 **News** : Attending SP. See you on the web!
+
 **News** : Started to work as an intern in Tumult Labs.
 
 <!---
