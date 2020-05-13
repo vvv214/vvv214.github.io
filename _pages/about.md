@@ -17,10 +17,12 @@ Before that, I obtained my Bachelor's degree in Software School, Fudan Universit
 
 I study differential privacy (DP) and local DP (LDP), with a focus on designing algorithms that work in practice. I started my research from designing algorithms for computational geometry problems; then I designed an searchable encryption (SSE) scheme.
 
-**News** : Attending ACSAC. See you in San Juan!
+**News** : Attending SP. See you on the web!
+**News** : Started to work as an intern in Tumult Labs.
 
 <!---
+**News** : Attending ACSAC. See you in San Juan!
 **News** : Attend SIGMOD (to present HIO, our LDP paper done at Alibaba), visit CISPA, and attend the Annual PSCR Stakeholder Meeting (to present DPSyn, our solution to the DP synthetic dataset challenge) in the first two weeks of July.
 -->
 
-Last updated: Dec. 2nd, 2019
+Last updated: May. 12th, 2020
