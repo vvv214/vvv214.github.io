@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 I am a fifth-year PhD student from the Department of Computer Science, Purdue University.
-I plan to graduate in Fall 2021.
 My advisor is Prof. Ninghui Li.
 In Fall 2018, I did an intern in Alibaba with Dr. Bolin Ding.
 In Summer 2020, I did an intern in Tumult Labs with Prof. Ashwin Machanavajjhala.
