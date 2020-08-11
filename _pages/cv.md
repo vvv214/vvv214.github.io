@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Purdue University
+* Ph.D in Computer Science, Purdue University, (expected) 2021
 * B.Eng. in Software Engineering, Fudan University, 2015
 
 

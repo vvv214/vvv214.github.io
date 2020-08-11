@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Summary
+Highlight
 ======
 * I have published 5.5 first-author papers in top-tier conferences: NDSS'20, SIGMOD'19, CCS'18 (co-first author), SP'18, Usenix'17, CCS'16.
 
