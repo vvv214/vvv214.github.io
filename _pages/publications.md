@@ -10,11 +10,12 @@ redirect_from:
 
 Highlight
 ======
-* I have published 5.5 first-author papers in top-tier conferences: NDSS'20, SIGMOD'19, CCS'18 (co-first author), SP'18, Usenix'17, CCS'16.
+* I have published 7 first-author papers in top-tier conferences: VLDB'20, NDSS'20, SIGMOD'19, CCS'18 (co-first author), SP'18, Usenix'17, CCS'16.
+
+* I maintain a list of LDP implementations [LDP_Protocols](https://github.com/vvv214/LDP_Protocols).
 
 * We have 2 tutorials in SIGMOD'18 and KDD'18 about LDP [Privacy at Scale: Local Differential Privacy in Practice](https://sites.google.com/view/kdd2018-tutorial/home).
 
-* I maintain a list of my LDP papers and implementations [LDP_Protocols](https://github.com/vvv214/LDP_Protocols).
 
 <!---
 * During undergrad, I published 2.x first-author papers in AsiaCCS'16, PloS ONE'15, and SoCG'14 (alphabetical order).
