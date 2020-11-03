@@ -13,18 +13,17 @@ redirect_from:
 Personal
 ======
 * I grew up in Zibo, Shandong. At the age of 15, I moved to Shanghai, in which I live for 8 years. During my undergrad, I spent 2 months in Dublin, 4 months in Taiwan, and 2 months in Hong Kong.
-* Curious about new things. 
-* Enthusiastic about optimizing my daily activities.
-* Prefer to finish trivial things first (e.g., I finished this website).
+* I am curious about new things. 
+* I like practical optimization: one is to optimize my daily routines/activities; the other is online optimization (e.g., choosing what to cook and what to buy).
+* I prefer to finish trivial things first (e.g., I finished this website).
 
 Interest
 ======
 * Playing sports: I like to participate in fun activities.
-  - Enjoy: basketball>hiking>badminton>tennis>golf>swim>running
-  - Like to watch (too lazy to play myself): Warcraft 3, Heroes of Might & Magic 3, Civilization
-  - Do not like: table tennis, workout
+  - Enjoy: basketball>hiking>badminton>tennis
+  - Do not like: table tennis, workout, running, swimming (I feel boring and painful)
 * Cooking
-* Watching movies (and movie recaps)
+* Watching youtube videos, e.g., movie recaps, gaming videos (of Warcraft 3, to help me sleep) , vlogs, etc.
 
 
 Others
