@@ -21,9 +21,9 @@ Before that, I obtained my Bachelor's degree in Software School, Fudan Universit
 I study differential privacy (DP) and local DP (LDP), with a focus on designing algorithms that work in practice. I started my research from designing algorithms for computational geometry problems; then I designed an searchable encryption (SSE) scheme.
 
 
-**News** : One paper accepted to VLDB 21.
 
 <!---
+**News** : One paper accepted to VLDB 21.
 **News** : Attending SIGMOD. See you on the web!
 **News** : Attending SP. See you on the web!
 **News** : Attending ACSAC. See you in San Juan!
