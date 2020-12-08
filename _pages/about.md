@@ -30,4 +30,4 @@ I study differential privacy (DP) and local DP (LDP), with a focus on designing 
 **News** : Attend SIGMOD (to present HIO, our LDP paper done at Alibaba), visit CISPA, and attend the Annual PSCR Stakeholder Meeting (to present DPSyn, our solution to the DP synthetic dataset challenge) in the first two weeks of July.
 -->
 
-Last updated: Nov. 3rd, 2020
+Last updated: Dec. 7th, 2020

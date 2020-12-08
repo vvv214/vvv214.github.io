@@ -37,7 +37,7 @@ Experience
 
 Service
 ======
-* PC: PoPETS'21, AsiaCCS'21, TPDP'19, Globecom'19-20
+* PC: CCS'21, PoPETS'21, AsiaCCS'21, TPDP'19, Globecom'19-20
 * Student PC: SP'18
 * External Reviewer: PoPETS'20, PoPETS'19, FC'19, PoPETS'18, ESORICS'18
 * Journal Reviewer: TKDE'20, TDSC'20, TIFS'20, TOPS'20, TDSC'19, TKDE'19, TIFS'18, TOPS'19, TOPS'18, IoTJ'18, TIFS'17, TOPS'17, TMC'17
@@ -45,9 +45,10 @@ Service
 
 Awards
 ======
+* 2019 iDASH Secure Genome Analysis Competition (Track III): 2nd place
 * 2019 Bilsland Dissertation Fellowship
 * 2019 NIST PSCR Differential Privacy Synthetic Data Challenge: 2nd place
-* 2018 NIST PSCR Unlinkable Data Challenge: RUNNER-UP and PEOPLE'S CHOICE
+* 2018 NIST PSCR Unlinkable Data Challenge: Runner-Up and People's Choice
 * 2018 Emil Stefanov Memorial Fellowship 
 * 2017 CERIAS/Intel Research Assistantship
 * 2016 CCS'16 paper won 2nd place CERIAS best poster award
