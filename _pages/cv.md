@@ -45,7 +45,8 @@ Service
 
 Awards
 ======
-* 2019 iDASH Secure Genome Analysis Competition (Track III): 2nd place
+* 2020 Differential Privacy Temporal Map Challenge (Sprint 1): 2nd place
+* 2020 iDASH Secure Genome Analysis Competition (Track III): 2nd place
 * 2019 Bilsland Dissertation Fellowship
 * 2019 NIST PSCR Differential Privacy Synthetic Data Challenge: 2nd place
 * 2018 NIST PSCR Unlinkable Data Challenge: Runner-Up and People's Choice

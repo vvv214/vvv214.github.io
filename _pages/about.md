@@ -22,6 +22,8 @@ I study differential privacy (DP) and local DP (LDP), with a focus on designing 
 
 
 **News** : One paper accepted to USENIX Security 21.
+**News** : We won the second place in two competitions: iDASH Secure Genome Analysis Competition (Track III) and Differential Privacy Temporal Map Challenge (Sprint 1).  For all the 6 competitions we participated, we consistently won the 2nd place.
+
 <!---
 **News** : One paper accepted to VLDB 21.
 **News** : Attending SIGMOD. See you on the web!
@@ -30,4 +32,4 @@ I study differential privacy (DP) and local DP (LDP), with a focus on designing 
 **News** : Attend SIGMOD (to present HIO, our LDP paper done at Alibaba), visit CISPA, and attend the Annual PSCR Stakeholder Meeting (to present DPSyn, our solution to the DP synthetic dataset challenge) in the first two weeks of July.
 -->
 
-Last updated: Dec. 7th, 2020
+Last updated: Dec. 15th, 2020
