@@ -23,7 +23,7 @@ I study differential privacy (DP) and local DP (LDP), with a focus on designing 
 
 **News** : One paper accepted to USENIX Security 21.
 
-**News** : We won the second place in two competitions: iDASH Secure Genome Analysis Competition (Track III) and Differential Privacy Temporal Map Challenge (Sprint 1).  For all the 6 competitions we participated, we consistently won the 2nd place.
+**News** : We won the second place in two competitions: iDASH Secure Genome Analysis Competition (Track III) and Differential Privacy Temporal Map Challenge (Sprint 1).  For all the 6 competitions we participated in, we consistently won the 2nd place.
 
 <!---
 **News** : One paper accepted to VLDB 21.
