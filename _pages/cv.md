@@ -45,6 +45,7 @@ Service
 
 Awards
 ======
+* 2020 Better Meter Stick for Differential Privacy Challenge: 1st place
 * 2020 Differential Privacy Temporal Map Challenge (Sprint 1): 2nd place
 * 2020 iDASH Secure Genome Analysis Competition (Track III): 2nd place
 * 2019 Bilsland Dissertation Fellowship
