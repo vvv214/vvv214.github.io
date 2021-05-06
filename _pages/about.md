@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-** I will join the University of Virginia (UVa) as an assistant professor!  I have multiple (2-5) openings for PhD students and post-docs.  Send me an email if you are excited about the privacy issues in data science and want to work together!  I have joint appointment with the Department of Computer Science and the School of Data Science so you can apply both programs.**
+**I will join the University of Virginia (UVa) as an assistant professor!  I have multiple (2-5) openings for PhD students and post-docs.  Send me an email if you are excited about the privacy issues in data science and want to work together!  I have joint appointment with the Department of Computer Science and the School of Data Science so you can apply both programs.**
 
 <!---
 **I'm on the academic job market.**
