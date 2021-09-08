@@ -11,9 +11,9 @@ redirect_from:
 Highlight
 ======
 
-* Open source effort: I maintain a list of LDP implementations (by myself and my collaborators) at [LDP_Protocols](https://github.com/vvv214/LDP_Protocols).
+* I maintain a list of LDP implementations (by myself and my collaborators) at [LDP_Protocols](https://github.com/vvv214/LDP_Protocols).
 
-* Broader impact: We have 2 tutorials in SIGMOD'18 and KDD'18 about LDP [Privacy at Scale: Local Differential Privacy in Practice](https://sites.google.com/view/kdd2018-tutorial/home).
+* We have 2 tutorials in SIGMOD'18 and KDD'18 about LDP [Privacy at Scale: Local Differential Privacy in Practice](https://sites.google.com/view/kdd2018-tutorial/home).
 
 
 <!---

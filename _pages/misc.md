@@ -13,13 +13,12 @@ redirect_from:
 Personal
 ======
 * I grew up in Zibo, Shandong. At the age of 15, I moved to Shanghai, in which I live for 8 years. During my undergrad, I spent 2 months in Dublin (University College Dublin), 4 months in Taiwan (National Tsing Hua University), and 2 months in Hong Kong (the University of Hong Kong).
-* I am curious about new things. 
 
 Interest
 ======
 * Watching youtube videos, e.g., movie recaps, gaming videos (of Warcraft 3, to help me sleep) , vlogs, etc.
 * Playing sports: I like to participate in fun activities.
-  - Enjoy: basketball>hiking>badminton>tennis
+  - Enjoy: basketball>hiking>badminton
   - Do not like: table tennis, workout, running, swimming (I feel boring and painful)
 * Cooking
 
