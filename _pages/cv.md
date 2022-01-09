@@ -18,6 +18,7 @@ Education
 
 Experience
 ======
+* Post-doc, CMU, 2021
 * Research Intern, Tumult Labs, Summer 2020
 * Research Intern, Alibaba Inc., Fall 2018
 
@@ -40,9 +41,8 @@ Experience
 
 Service
 ======
-* PC: EUROSP'22, CCS'21, PoPETS'21-22, AsiaCCS'21-22, ESORICS'21, TPDP'21, TPDP'19
+* PC: CCS'21-22, PoPETS'21-22, AsiaCCS'21-22, ESORICS'21-22, EUROSP'22, 2, AAAI'22 (Senior PC), ICML'22, DLS’22, AISec'21, TPDP'21, TPDP'19
 * Journal Reviewer: TKDE'19-21, TDSC'19-20, TIFS'17-20, TOPS'17-20
-
 
 Awards
 ======
