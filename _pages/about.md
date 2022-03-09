@@ -20,9 +20,7 @@ In Fall 2018, I did an intern in Alibaba with Dr. Bolin Ding.
 In Summer 2020, I did an intern in Tumult Labs with Prof. Ashwin Machanavajjhala.
 -->
 
-I am an assistant professor at the University of Virginia.  
-I got my PhD from Purdue University and my Bachelor's degree from Fudan University.
-I work on differential privacy and machine learning privacy, focusing on designing algorithms that work in practice.
+I am an assistant professor at the University of Virginia.  I got my PhD from Purdue University and my Bachelor's degree from Fudan University.  I work on differential privacy and machine learning privacy, focusing on designing algorithms that work in practice.
 
 
 <!---
