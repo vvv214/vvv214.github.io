@@ -22,7 +22,6 @@ In Summer 2020, I did an intern in Tumult Labs with Prof. Ashwin Machanavajjhala
 
 I am an assistant professor at the University of Virginia.  
 I got my PhD from Purdue University and my Bachelor's degree from Fudan University.
-My research 
 I work on differential privacy and machine learning privacy, focusing on designing algorithms that work in practice.
 
 
@@ -37,4 +36,4 @@ I work on differential privacy and machine learning privacy, focusing on designi
 **News** : Attend SIGMOD (to present HIO, our LDP paper done at Alibaba), visit CISPA, and attend the Annual PSCR Stakeholder Meeting (to present DPSyn, our solution to the DP synthetic dataset challenge) in the first two weeks of July.
 -->
 
-Last updated: Jan. 9th, 2022
+Last updated: Mar. 8th, 2022
