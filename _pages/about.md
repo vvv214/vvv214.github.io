@@ -19,6 +19,7 @@ Before that, I obtained my Bachelor's degree from Fudan University, under the su
 In Fall 2018, I did an intern in Alibaba with Dr. Bolin Ding.
 In Summer 2020, I did an intern in Tumult Labs with Prof. Ashwin Machanavajjhala.
 -->
+** I am actively looking for PhD students and interns.  If you are admitted into the UVa PhD program or if you want to work with me, we should talk!**
 
 I am an assistant professor at the University of Virginia.  I got my PhD from Purdue University and my Bachelor's degree from Fudan University.  I work on differential privacy and machine learning privacy, focusing on designing algorithms that work in practice.
 
@@ -34,4 +35,4 @@ I am an assistant professor at the University of Virginia.  I got my PhD from Pu
 **News** : Attend SIGMOD (to present HIO, our LDP paper done at Alibaba), visit CISPA, and attend the Annual PSCR Stakeholder Meeting (to present DPSyn, our solution to the DP synthetic dataset challenge) in the first two weeks of July.
 -->
 
-Last updated: Mar. 8th, 2022
+Last updated: April. 24th, 2022

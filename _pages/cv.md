@@ -41,11 +41,13 @@ Experience
 
 Service
 ======
-* PC: CCS'21-22, PoPETS'21-22, AsiaCCS'21-22, ESORICS'21-22, EUROSP'22, 2, AAAI'22 (Senior PC), ICML'22, DLS’22, AISec'21, TPDP'21, TPDP'19
-* Journal Reviewer: TKDE'19-21, TDSC'19-20, TIFS'17-20, TOPS'17-20
+* 2023: NDSS, VLDB, ICDE
+* 2022: ACM CCS, PETS, AsiaCCS, ESORICS, EUROSP, Neurips, ICML, AAAI (Senior PC), CIKM, DLS
+* 2021: ACM CCS, PETS, AsiaCCS, ESORICS, AISec, TPDP
 
 Awards
 ======
+* 2021 CERIAS Diamond Award
 * 2020 Better Meter Stick for Differential Privacy Challenge: 1st place
 * 2020 Differential Privacy Temporal Map Challenge (Sprint 1): 2nd place
 * 2020 iDASH Secure Genome Analysis Competition (Track III): 2nd place
