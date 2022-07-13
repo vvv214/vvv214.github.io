@@ -37,4 +37,4 @@ I am an assistant professor at the University of Virginia.  I got my PhD from Pu
 **News** : Attend SIGMOD (to present HIO, our LDP paper done at Alibaba), visit CISPA, and attend the Annual PSCR Stakeholder Meeting (to present DPSyn, our solution to the DP synthetic dataset challenge) in the first two weeks of July.
 -->
 
-Last updated: April. 24th, 2022
+Last updated: July 12th, 2022
