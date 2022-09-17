@@ -9,6 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-[Archit Uniyal](https://archituniyal.me/) (Co-advising with David Evans)
-Xuhui Kang
-Mingtian Tan
+PhD Students
+ - [Archit Uniyal](https://archituniyal.me/) (Co-advising with David Evans)
+ - Xuhui Kang
+ - Mingtian Tan
+
+Master Students
+ - Xiamei Zhang
+ - [Siddharth Ghatti](https://www.linkedin.com/in/siddharth-ghatti-46142213a/)
+
+Undergraduate Students
+ - [Jack Liu](https://www.linkedin.com/in/jack-liu-b52a621a3/)
+ - Shouri Nallanagula
