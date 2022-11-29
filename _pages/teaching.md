@@ -8,9 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-Graduate-level lecture-style [Desgn & Analysis of Algorithms](https://tianhao.wang/s23-algo) (Spring 2023)
+Graduate-level lecture-style [Desgn & Analysis of Algorithms](https://tianhao.wang/s23-algorithm) (Spring 2023)
 
 Undergraduate-level lecture-style [Data Privacy](https://tianhao.wang/f22-dataprivacy) (Fall 2022)
 
 Graduate-level seminar-style [Data Privacy](https://tianhao.wang/s22-dataprivacy) (Spring 2022)
 
+Graduate-level [Capstone](https://tianhao.wang/teaching) (Spring 2022)
