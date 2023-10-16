@@ -24,7 +24,7 @@ redirect_from:
 * During undergrad, I published 2.x first-author papers in AsiaCCS'16, PloS ONE'15, and SoCG'14 (alphabetical order).
 -->
 
-* All papers and code are publicly available.
+* All papers and code are publicly available. If you find an exception, let me know.
 * Also maintained in [Google Scholar](https://scholar.google.com/citations?user=TkgyXGwAAAAJ&hl=en&oi=ao) and [DBLP](https://dblp.uni-trier.de/pers/hd/w/Wang_0001:Tianhao).
 
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Ftianhao.wang%2Ffiles%2Ftianhao.bib&jsonp=1"></script>
