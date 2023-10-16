@@ -27,6 +27,8 @@ In Summer 2020, I did an intern in Tumult Labs with Prof. Ashwin Machanavajjhala
 I am an assistant professor at the University of Virginia.  I got my PhD from Purdue University and my Bachelor's degree from Fudan University.  I work on differential privacy and machine learning privacy, focusing on designing algorithms that work in practice.
 
 
+My [wife](https://xuejunzhao.netlify.app/) is an assistant professor in Information System and Operations Management at UNC Charlotte.
+
 <!---
 **News** : We won the first place in the Better Meter Stick for Differential Privacy Challenge [link](https://www.herox.com/bettermeterstick/update/3782).
 **News** : We won the second place in two competitions: iDASH Secure Genome Analysis Competition (Track III) and Differential Privacy Temporal Map Challenge (Sprint 1).  For all the 6 competitions we participated in, we consistently won the 2nd place.
