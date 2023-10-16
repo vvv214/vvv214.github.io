@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+PhD-level seminar-style [Cyber Security & Privacy](https://tianhao.wang/f23-cybersecprivacy/) (Fall 2023)
+
 Graduate-level lecture-style [Desgn & Analysis of Algorithms](https://tianhao.wang/s23-algo) (Spring 2023)
 
 Undergraduate-level lecture-style [Data Privacy](https://tianhao.wang/f22-dataprivacy) (Fall 2022)
