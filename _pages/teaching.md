@@ -17,3 +17,4 @@ Undergraduate-level lecture-style [Data Privacy](https://tianhao.wang/f22-datapr
 
 Graduate-level seminar-style [Data Privacy](https://tianhao.wang/s22-dataprivacy) (Spring 2022)
 
+Graduate-level [Capstone](https://tianhao.wang/teaching) (Spring 2022)

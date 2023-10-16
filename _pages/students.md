@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 PhD Students
- - Mingtian Tan
  - Yan Pang
  - Chen Gong
+ - Mingtian Tan
 
 <!-- Master Students
  - Xiamei Zhang
