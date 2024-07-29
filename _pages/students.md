@@ -8,11 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+PostDoc Fellow
+ - Xiaochen Li
 
 PhD Students
  - Yan Pang
  - Chen Gong
- - Mingtian Tan
 
 <!-- Master Students
  - Xiamei Zhang
