@@ -13,7 +13,7 @@ PostDoc Fellow
 
 PhD Students
  - Yan Pang
- - Chen Gong
+ - [Chen Gong](https://2019chengong.github.io/)
 
 <!-- Master Students
  - Xiamei Zhang
