@@ -9,11 +9,23 @@ redirect_from:
 
 {% include base_path %}
 PostDoc Fellow
- - Xiaochen Li
+ - [Xiaochen Li](https://xiaochenli-w.github.io/)
 
 PhD Students
- - Yan Pang
+ - [Yan Pang](https://py85252876.github.io/ )
  - [Chen Gong](https://2019chengong.github.io/)
+ - [Han Yang](https://y-helios.github.io/)
+ - [Yucheng Fu](https://fuyucheng11.github.io/)
+ - [Kai Chen](https://kaichen9909.github.io/)
+ - Songwei Dong (co-advised with Cong Shen)
+
+
+Undergraduate Students
+ - Michael Li
+ - Jihad El-Amin
+ - Ethan Zhang
+ - Grace Ho
+ - Fiona Magee
 
 <!-- Master Students
  - Xiamei Zhang
