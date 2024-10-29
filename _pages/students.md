@@ -12,7 +12,7 @@ PostDoc Fellow
  - [Xiaochen Li](https://xiaochenli-w.github.io/)
 
 PhD Students
- - [Yan Pang](https://py85252876.github.io/ )
+ - [Yan Pang](https://py85252876.github.io/)
  - [Chen Gong](https://2019chengong.github.io/)
  - [Han Yang](https://y-helios.github.io/)
  - [Yucheng Fu](https://fuyucheng11.github.io/)
