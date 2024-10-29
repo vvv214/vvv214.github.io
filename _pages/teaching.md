@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+Graduate-level seminar-style [Data Privacy](https://tianhao.wang/s25-dataprivacy) (Spring 2025)
 
 Undergraduate-level lecture-style [Intro to Cyber Security](https://canvas.its.virginia.edu/courses/114978) (Fall 2024)
 
