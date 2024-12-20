@@ -40,4 +40,4 @@ My lovely wife [Xuejun Zhao](https://xuejunzhao.netlify.app/) is an assistant pr
 **News** : Attend SIGMOD (to present HIO, our LDP paper done at Alibaba), visit CISPA, and attend the Annual PSCR Stakeholder Meeting (to present DPSyn, our solution to the DP synthetic dataset challenge) in the first two weeks of July.
 -->
 
-Last updated: Oct 7th, 2024
+Last updated: Dec 20th, 2024
