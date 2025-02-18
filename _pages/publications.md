@@ -11,9 +11,6 @@ redirect_from:
 <!-- Highlight
 ====== -->
 
-
-
-
 <!---
 * We have 2 tutorials in SIGMOD'18 and KDD'18 about LDP [Privacy at Scale: Local Differential Privacy in Practice](https://sites.google.com/view/kdd2018-tutorial/home).
 

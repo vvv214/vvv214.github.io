@@ -22,13 +22,9 @@ In Fall 2018, I did an intern in Alibaba with Dr. Bolin Ding.
 In Summer 2020, I did an intern in Tumult Labs with Prof. Ashwin Machanavajjhala.
 -->
 
-
-
 I am an assistant professor at the University of Virginia.  I got my PhD from Purdue University and my Bachelor's degree from Fudan University.  I work on differential privacy and machine learning privacy, focusing on designing algorithms that work in practice.
 
-
 My lovely wife [Xuejun Zhao](https://xuejunzhao.netlify.app/) is an assistant professor in Information System and Operations Management at UNC Charlotte.
-
 
 <!---
 **News** : We won the first place in the Better Meter Stick for Differential Privacy Challenge [link](https://www.herox.com/bettermeterstick/update/3782).
@@ -41,4 +37,4 @@ My lovely wife [Xuejun Zhao](https://xuejunzhao.netlify.app/) is an assistant pr
 **News** : Attend SIGMOD (to present HIO, our LDP paper done at Alibaba), visit CISPA, and attend the Annual PSCR Stakeholder Meeting (to present DPSyn, our solution to the DP synthetic dataset challenge) in the first two weeks of July.
 -->
 
-Last updated: Jan 29th, 2025
+Last updated: Feb 18th, 2025
