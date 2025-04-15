@@ -27,7 +27,6 @@ I am an assistant professor at the University of Virginia.  I got my PhD from Pu
 My lovely wife [Xuejun Zhao](https://xuejunzhao.netlify.app/) is an assistant professor in Information System and Operations Management at UNC Charlotte.
 
 **Note** I am very happy with the size of my fantastic group of current phd and intern students. I do not plan to take new phd students fall 25 and fall 26.  
-**Note** Due to over commitment to conference program committees, I will not review journal papers. If you need reviews, I highly recommend my students (see Students tab).
 <!---
 **News** : We won the first place in the Better Meter Stick for Differential Privacy Challenge [link](https://www.herox.com/bettermeterstick/update/3782).
 **News** : We won the second place in two competitions: iDASH Secure Genome Analysis Competition (Track III) and Differential Privacy Temporal Map Challenge (Sprint 1).  For all the 6 competitions we participated in, we consistently won the 2nd place.
@@ -39,4 +38,4 @@ My lovely wife [Xuejun Zhao](https://xuejunzhao.netlify.app/) is an assistant pr
 **News** : Attend SIGMOD (to present HIO, our LDP paper done at Alibaba), visit CISPA, and attend the Annual PSCR Stakeholder Meeting (to present DPSyn, our solution to the DP synthetic dataset challenge) in the first two weeks of July.
 -->
 
-Last updated: March 10th, 2025
+Last updated: April 15th, 2025
