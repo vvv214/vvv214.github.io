@@ -11,19 +11,19 @@
   display: inline-block;
   margin-bottom: 0.25em;
   padding: 0.5em 1em;
-  color: #fff !important;
+  color: $body-color;
   font-family: $sans-serif;
   font-size: $type-size-6;
   font-weight: bold;
   text-align: center;
   text-decoration: none;
   background-color: $primary-color;
-  border: 0 !important;
+  border: 0;
   border-radius: $border-radius;
   cursor: pointer;
 
   &:hover {
-    background-color: mix(white, #000, 20%);
+    background-color: mix($black, $primary-color, 20%);
   }
 
   .icon {
@@ -48,12 +48,12 @@
   /* for dark backgrounds */
 
   &--inverse {
-    color: $gray !important;
-    border: 1px solid $light-gray !important; /* override*/
-    background-color: #fff;
+    color: $gray;
+    border: 1px solid $light-gray;
+    background-color: $body-color;
 
     &:hover {
-      color: #fff !important;
+      color: $body-color;
       border-color: $gray;
     }
   }
@@ -61,7 +61,7 @@
   /* light outline */
 
   &--light-outline {
-    border: 1px solid #fff !important; /* override*/
+    border: 1px solid $body-color;
     background-color: transparent;
   }
 
@@ -71,7 +71,7 @@
     background-color: $info-color;
 
     &:hover {
-      background-color: mix(#000, $info-color, 20%);
+      background-color: mix($black, $info-color, 20%);
     }
   }
 
@@ -81,7 +81,7 @@
     background-color: $warning-color;
 
     &:hover {
-      background-color: mix(#000, $warning-color, 20%);
+      background-color: mix($black, $warning-color, 20%);
     }
   }
 
@@ -91,7 +91,7 @@
     background-color: $success-color;
 
     &:hover {
-      background-color: mix(#000, $success-color, 20%);
+      background-color: mix($black, $success-color, 20%);
     }
   }
 
@@ -101,7 +101,7 @@
     background-color: $danger-color;
 
     &:hover {
-      background-color: mix(#000, $danger-color, 20%);
+      background-color: mix($black, $danger-color, 20%);
     }
   }
 
@@ -128,7 +128,7 @@
       background-color: $color;
 
       &:hover {
-        background-color: mix(#000, $color, 20%);
+        background-color: mix($black, $color, 20%);
       }
     }
   }

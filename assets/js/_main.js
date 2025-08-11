@@ -2,82 +2,93 @@
    jQuery plugin settings and other scripts
    ========================================================================== */
 
-$(document).ready(function(){
+document.addEventListener('DOMContentLoaded', () => {
   // Sticky footer
-  var bumpIt = function() {
-      $("body").css("margin-bottom", $(".page__footer").outerHeight(true));
-    },
-    didResize = false;
+  const bumpIt = () => {
+    document.body.style.marginBottom = `${document.querySelector('.page__footer').offsetHeight}px`;
+  };
+  let didResize = false;
 
   bumpIt();
 
-  $(window).resize(function() {
+  window.addEventListener('resize', () => {
     didResize = true;
   });
-  setInterval(function() {
+
+  setInterval(() => {
     if (didResize) {
       didResize = false;
       bumpIt();
     }
   }, 250);
+
   // FitVids init
-  $("#main").fitVids();
+  $('#main').fitVids();
 
   // init sticky sidebar
-  $(".sticky").Stickyfill();
+  if (document.querySelector('.sticky')) {
+    Stickyfill.add(document.querySelectorAll('.sticky'));
+  }
 
-  var stickySideBar = function(){
+
+  const stickySideBar = () => {
     const MINIMUM_WIDTH = 1024;
 
     // Adjust if the follow button is shown based upon screen size
-    var width = $(window).width();
-    var show = $(".author__urls-wrapper button").length === 0 ? width > MINIMUM_WIDTH : !$(".author__urls-wrapper button").is(":visible");
+    const width = window.innerWidth;
+    let show = document.querySelector('.author__urls-wrapper button') ? width > MINIMUM_WIDTH : !document.querySelector('.author__urls-wrapper button').offsetParent;
 
     // Don't show the follow button if there is no content for it
-    var count = $('.author__urls.social-icons li').length - $('li[class="author__desktop"]').length;
+    const count = document.querySelectorAll('.author__urls.social-icons li').length - document.querySelectorAll('li[class="author__desktop"]').length;
     if (width <= MINIMUM_WIDTH && count === 0) {
-      $(".author__urls-wrapper button").hide();
+      document.querySelector('.author__urls-wrapper button').style.display = 'none';
       show = false;
     }
 
     if (show) {
       // fix
-      Stickyfill.rebuild();
-      Stickyfill.init();
-      $(".author__urls").show();
+      if (document.querySelector('.sticky')) {
+        Stickyfill.rebuild();
+        Stickyfill.init();
+      }
+      document.querySelector('.author__urls').style.display = 'block';
     } else {
       // unfix
-      Stickyfill.stop();
-      $(".author__urls").hide();
+      if (document.querySelector('.sticky')) {
+        Stickyfill.stop();
+      }
+      document.querySelector('.author__urls').style.display = 'none';
     }
   };
 
   stickySideBar();
 
-  $(window).resize(function(){
+  window.addEventListener('resize', () => {
     stickySideBar();
   });
 
   // Follow menu drop down
-  $(".author__urls-wrapper button").on("click", function() {
-    $(".author__urls").fadeToggle("fast", function() {});
-    $(".author__urls-wrapper button").toggleClass("open");
+  document.querySelector('.author__urls-wrapper button').addEventListener('click', () => {
+    $('.author__urls').fadeToggle('fast', () => {});
+    document.querySelector('.author__urls-wrapper button').classList.toggle('open');
   });
 
   // init smooth scroll, this needs to be slightly more than then fixed masthead height
-  $("a").smoothScroll({offset: -65});
+  $('a').smoothScroll({ offset: -65 });
 
   // add lightbox class to all image links
-  $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
+  document.querySelectorAll("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").forEach(item => {
+    item.classList.add('image-popup');
+  });
 
   // Magnific-Popup options
-  $(".image-popup").magnificPopup({
+  $('.image-popup').magnificPopup({
     type: 'image',
     tLoading: 'Loading image #%curr%...',
     gallery: {
       enabled: true,
       navigateByImgClick: true,
-      preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+      preload: [0, 1], // Will preload 0 - before current, and 1 after the current image
     },
     image: {
       tError: '<a href="%url%">Image #%curr%</a> could not be loaded.',
@@ -87,13 +98,12 @@ $(document).ready(function(){
     // make it unique to apply your CSS animations just to this exact popup
     mainClass: 'mfp-zoom-in',
     callbacks: {
-      beforeOpen: function() {
+      beforeOpen() {
         // just a hack that adds mfp-anim class to markup
         this.st.image.markup = this.st.image.markup.replace('mfp-figure', 'mfp-figure mfp-with-anim');
-      }
+      },
     },
     closeOnContentClick: true,
-    midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
+    midClick: true, // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
-
 });
