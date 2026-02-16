@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 <div class="intro-panel">
-<p class="intro-lead">I am an Assistant Professor at the <strong>University of Virginia</strong>, jointly appointed in the Department of Computer Science and the School of Data Science.</p>
+<p class="intro-lead">I am an Assistant Professor at the <strong>University of Virginia</strong>, in the Department of Computer Science.</p>
 <p>I earned my PhD from <strong>Purdue University</strong> and my Bachelor's degree from <strong>Fudan University</strong>. My research focuses on making <strong>differential privacy</strong> and <strong>machine learning privacy</strong> practical, reliable, and impactful in real-world systems.</p>
 </div>
 
