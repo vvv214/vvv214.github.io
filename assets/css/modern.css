@@ -232,7 +232,44 @@ a:hover {
   padding: 2rem !important;
 }
 
-.page {
+/* On inner pages with sidebar, use proper layout */
+@media screen and (min-width: 1024px) {
+  .sidebar.sticky {
+    position: fixed !important;
+    top: 64px !important;
+    width: 220px !important;
+    padding-top: 1.5rem !important;
+    height: calc(100vh - 64px) !important;
+    overflow-y: auto !important;
+  }
+
+  .sidebar.sticky + .page {
+    margin-left: 240px !important;
+    width: calc(100% - 240px) !important;
+    float: none !important;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .sidebar.sticky {
+    position: relative !important;
+    width: 100% !important;
+    height: auto !important;
+    text-align: center !important;
+    padding-top: 1rem !important;
+    margin-bottom: 1.5rem !important;
+    border-bottom: 1px solid var(--color-border) !important;
+    padding-bottom: 1.5rem !important;
+  }
+
+  .page {
+    float: none !important;
+    width: 100% !important;
+  }
+}
+
+/* Homepage (no sidebar) - page takes full width */
+.homepage-hero ~ #main .page {
   float: none !important;
   width: 100% !important;
 }
