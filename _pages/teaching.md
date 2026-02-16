@@ -1,25 +1,46 @@
 ---
 permalink: /teaching/
-title: ""
+title: "Teaching"
 excerpt: "Teaching"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /teaching.html
 ---
 
 {% include base_path %}
-Graduate-level seminar-style [Data Privacy](https://tianhao.wang/s26-dataprivacy) (Spring 2026)
 
-Graduate-level seminar-style [Data Privacy](https://tianhao.wang/s25-dataprivacy) (Spring 2025)
+<div class="section-card">
+<h3>Spring 2026</h3>
+<p>Graduate-level seminar-style <a href="https://tianhao.wang/s26-dataprivacy">Data Privacy</a></p>
+</div>
 
-Undergraduate-level lecture-style [Intro to Cyber Security](https://canvas.its.virginia.edu/courses/114978) (Fall 2024)
+<div class="section-card">
+<h3>Spring 2025</h3>
+<p>Graduate-level seminar-style <a href="https://tianhao.wang/s25-dataprivacy">Data Privacy</a></p>
+</div>
 
-PhD-level lecture-style [Cyber Security & Privacy](https://tianhao.wang/f23-cybersecprivacy/) (Fall 2023)
+<div class="section-card">
+<h3>Fall 2024</h3>
+<p>Undergraduate-level lecture-style <a href="https://canvas.its.virginia.edu/courses/114978">Intro to Cyber Security</a></p>
+</div>
 
-Graduate-level lecture-style [Desgn & Analysis of Algorithms](https://tianhao.wang/s23-algo) (Spring 2023)
+<div class="section-card">
+<h3>Fall 2023</h3>
+<p>PhD-level lecture-style <a href="https://tianhao.wang/f23-cybersecprivacy/">Cyber Security & Privacy</a></p>
+</div>
 
-Undergraduate-level lecture-style [Data Privacy](https://tianhao.wang/f22-dataprivacy) (Fall 2022)
+<div class="section-card">
+<h3>Spring 2023</h3>
+<p>Graduate-level lecture-style <a href="https://tianhao.wang/s23-algo">Design & Analysis of Algorithms</a></p>
+</div>
 
-Graduate-level seminar-style [Data Privacy](https://tianhao.wang/s22-dataprivacy) (Spring 2022)
+<div class="section-card">
+<h3>Fall 2022</h3>
+<p>Undergraduate-level lecture-style <a href="https://tianhao.wang/f22-dataprivacy">Data Privacy</a></p>
+</div>
 
-Graduate-level [Capstone](https://tianhao.wang/teaching) (Spring 2022)
+<div class="section-card">
+<h3>Spring 2022</h3>
+<p>Graduate-level seminar-style <a href="https://tianhao.wang/s22-dataprivacy">Data Privacy</a></p>
+<p>Graduate-level <a href="https://tianhao.wang/teaching">Capstone</a></p>
+</div>

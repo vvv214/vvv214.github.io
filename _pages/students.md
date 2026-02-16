@@ -9,16 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-## PhD Students
- - [Yan Pang](https://py85252876.github.io/)
- - [Chen Gong](https://2019chengong.github.io/)
- - [Yucheng Fu](https://fuyucheng11.github.io/)
- - [Kai Chen](https://kaichen9909.github.io/)
+<div class="section-card">
+<h3>PhD Students</h3>
+<ul>
+<li><a href="https://py85252876.github.io/">Yan Pang</a></li>
+<li><a href="https://2019chengong.github.io/">Chen Gong</a></li>
+<li><a href="https://fuyucheng11.github.io/">Yucheng Fu</a></li>
+<li><a href="https://kaichen9909.github.io/">Kai Chen</a></li>
+</ul>
+</div>
 
-## Undergraduate Students
- - Michael Li
- - Grace Ho
+<div class="section-card">
+<h3>Undergraduate Students</h3>
+<ul>
+<li>Michael Li</li>
+<li>Grace Ho</li>
+</ul>
+</div>
 
-## Alumni
-### PostDoc Fellow
- - [Xiaochen Li](https://xiaochenli-w.github.io/) (First employment: AP at UNC Greensboro)
+<div class="section-card">
+<h3>Alumni</h3>
+<h4>PostDoc Fellow</h4>
+<ul>
+<li><a href="https://xiaochenli-w.github.io/">Xiaochen Li</a> (First employment: AP at UNC Greensboro)</li>
+</ul>
+</div>
