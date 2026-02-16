@@ -235,18 +235,18 @@ a:hover {
 /* On inner pages with sidebar, use proper layout */
 @media screen and (min-width: 1024px) {
   .sidebar.sticky {
-    position: fixed !important;
-    top: 64px !important;
+    position: sticky !important;
+    top: 80px !important;
     width: 220px !important;
-    padding-top: 1.5rem !important;
-    height: calc(100vh - 64px) !important;
+    padding-top: 0.8rem !important;
+    max-height: calc(100vh - 96px) !important;
     overflow-y: auto !important;
   }
 
   .sidebar.sticky + .page {
-    margin-left: 240px !important;
-    width: calc(100% - 240px) !important;
-    float: none !important;
+    margin-left: 0 !important;
+    width: calc(100% - 220px) !important;
+    float: right !important;
   }
 }
 
@@ -282,6 +282,16 @@ a:hover {
 
 .page__content p {
   margin-bottom: 1.25rem !important;
+}
+
+
+.page__title,
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.page__content [id] {
+  scroll-margin-top: 88px;
 }
 
 .page__content h1 {
@@ -1092,5 +1102,18 @@ body {
 
   .homepage-hero ~ #main .page__inner-wrap {
     max-width: 100% !important;
+  }
+}
+
+/* Fix: avoid hero image being clipped by sticky masthead */
+.homepage-hero {
+  margin-top: 0 !important;
+  padding-top: calc(3.8rem + 0.75rem) !important;
+}
+
+@media (max-width: 768px) {
+  .homepage-hero {
+    margin-top: 0 !important;
+    padding-top: calc(3rem + 0.5rem) !important;
   }
 }
