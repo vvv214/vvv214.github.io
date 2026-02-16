@@ -9,33 +9,49 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
+<div class="intro-panel">
+<p class="intro-lead">I am an Assistant Professor at the <strong>University of Virginia</strong>, in the Department of Computer Science.</p>
+<p>I earned my PhD from <strong>Purdue University</strong> and my Bachelor's degree from <strong>Fudan University</strong>. My research focuses on making <strong>differential privacy</strong> and <strong>machine learning privacy</strong> practical, reliable, and impactful in real-world systems.</p>
+</div>
 
-I am an assistant professor at the **University of Virginia** with a joint appointment in the Department of Computer Science and the School of Data Science. I received my PhD from **Purdue University** and my Bachelor's degree from **Fudan University**.
+<div class="quick-grid">
+  <div class="quick-item">
+    <h3>Research Mission</h3>
+    <p>Bridge theory and practice for privacy-preserving AI and data analytics.</p>
+  </div>
+  <div class="quick-item">
+    <h3>Core Interests</h3>
+    <p>Differential privacy, privacy accounting, synthetic data, and trustworthy machine learning.</p>
+  </div>
+  <div class="quick-item">
+    <h3>Collaboration</h3>
+    <p>I welcome collaborations across academia and industry on principled, deployable privacy technologies.</p>
+  </div>
+</div>
 
-My research focuses on **differential privacy** and **machine learning privacy**, with an emphasis on designing algorithms that work in practice.
+## Selected Projects
 
-My lovely wife [Xuejun Zhao](https://xuejunzhao.netlify.app/) is an assistant professor in Information System and Operations Management at UNC Charlotte.
+<div class="section-card project-card">
+  <div class="project-card__head">
+    <h3>DP Advisor</h3>
+    <a class="project-pill" href="https://chatgpt.com/g/g-68a88d81a07c8191bcfaa3beb0337ec2-differential-privacy-advisor">Open Tool</a>
+  </div>
+  <p>A custom GPT designed to help users evaluate whether differential privacy is appropriate for their use case and avoid common pitfalls. The tool does not collect personal information.</p>
+  <p class="project-note">For critical decision-making settings, please consult with a human expert. Prompt and design details are available upon request via email.</p>
+</div>
 
----
-
-## Projects
-
-<div class="section-card">
-<h3>DP Advisor</h3>
-<p>
-<a href="https://chatgpt.com/g/g-68a88d81a07c8191bcfaa3beb0337ec2-differential-privacy-advisor"><img src="https://img.shields.io/badge/Chat_with-DP_Advisor-blue" alt="Chat with DP Advisor"></a>
-</p>
-<p>A custom GPT designed to help users determine if differential privacy is the right tool for their problem and avoid common pitfalls. The tool does not collect any personal information. For critical applications involving decision-making, please consult with a human expert. The logic and prompts behind it are available upon request via email.</p>
+<div class="section-card project-card">
+  <div class="project-card__head">
+    <h3>PrivSyn</h3>
+    <a class="project-pill" href="http://privsyn.com">Visit Website</a>
+  </div>
+  <p>An interactive demo that walks users through generating synthetic tabular data with differential privacy guarantees.</p>
+  <p class="project-note">Currently tested on the Adult dataset. Availability may vary due to free-tier cloud hosting constraints.</p>
 </div>
 
 <div class="section-card">
-<h3>PrivSyn</h3>
-<p>
-<a href="http://privsyn.com"><img src="https://img.shields.io/badge/Visit-PrivSyn-blue" alt="Visit PrivSyn"></a>
-</p>
-<p>A website that walks users through the process of generating a synthetic tabular dataset with differential privacy guarantees. Currently tested on the adult dataset. Note: the backend runs on Google Cloud free tier, so availability may vary.</p>
+  <h3>Personal</h3>
+  <p>My wife, <a href="https://xuejunzhao.netlify.app/">Xuejun Zhao</a>, is an Assistant Professor in Information Systems and Operations Management at UNC Charlotte.</p>
 </div>
 
-<br>
-<p style="color: var(--color-text-muted); font-size: 0.85rem;">Last updated: Aug 22nd, 2025</p>
+<p class="last-updated">Last updated: Aug 22, 2025</p>
