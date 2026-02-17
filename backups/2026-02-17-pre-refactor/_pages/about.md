@@ -2,7 +2,7 @@
 permalink: /
 title: "About me"
 excerpt: "About me"
-layout: startup
+layout: homepage
 author_profile: false
 redirect_from:
   - /about/
@@ -14,7 +14,22 @@ redirect_from:
 <p>I earned my PhD from <strong>Purdue University</strong> and my Bachelor's degree from <strong>Fudan University</strong>. My research focuses on making <strong>differential privacy</strong> and <strong>machine learning privacy</strong> practical, reliable, and impactful in real-world systems.</p>
 </div>
 
-## Personal Projects
+<div class="quick-grid">
+  <div class="quick-item">
+    <h3>Research Mission</h3>
+    <p>Bridge theory and practice for privacy-preserving AI and data analytics.</p>
+  </div>
+  <div class="quick-item">
+    <h3>Core Interests</h3>
+    <p>Differential privacy, privacy accounting, synthetic data, and trustworthy machine learning.</p>
+  </div>
+  <div class="quick-item">
+    <h3>Collaboration</h3>
+    <p>I welcome collaborations across academia and industry on principled, deployable privacy technologies.</p>
+  </div>
+</div>
+
+## Selected Projects
 
 <div class="section-card project-card">
   <div class="project-card__head">

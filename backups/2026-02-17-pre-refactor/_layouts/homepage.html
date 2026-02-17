@@ -1,0 +1,102 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    {% if page.author and site.data.authors[page.author] %}
+      {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+    {% endif %}
+
+    <div class="homepage-hero">
+      <div class="hero-content">
+        {% if author.avatar %}
+          {% if author.avatar contains "://" %}
+            <img src="{{ author.avatar }}" alt="{{ author.name }}" class="hero-avatar">
+          {% else %}
+            <img src="{{ author.avatar | prepend: '/images/' | prepend: base_path }}" alt="{{ author.name }}" class="hero-avatar">
+          {% endif %}
+        {% endif %}
+        <h1 class="hero-name">{{ author.name }}</h1>
+        <p class="hero-title">
+          Assistant Professor<br>
+          University of Virginia<br>
+          <span style="font-size: 0.9em; opacity: 0.8;">Department of Computer Science</span>
+        </p>
+        <p class="hero-focus">Differential Privacy · Trustworthy Machine Learning · Practical Privacy Systems</p>
+        <div class="hero-tags" aria-label="Research areas">
+          <span>Privacy-Preserving ML</span>
+          <span>Algorithm Design</span>
+          <span>Responsible AI</span>
+        </div>
+        <div class="hero-links">
+          {% if author.email %}
+            <a href="mailto:{{ author.email }}"><i class="fas fa-envelope"></i> Email</a>
+          {% endif %}
+          {% if author.googlescholar %}
+            <a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar"></i> Google Scholar</a>
+          {% endif %}
+          {% if author.github %}
+            <a href="https://github.com/{{ author.github }}"><i class="fab fa-github"></i> GitHub</a>
+          {% endif %}
+          {% if author.twitter %}
+            <a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-x-twitter"></i> Twitter</a>
+          {% endif %}
+          <a href="{{ base_path }}/files/cv.pdf"><i class="fas fa-file-alt"></i> CV</a>
+        </div>
+      </div>
+    </div>
+
+    <section class="hero-stats" aria-label="Professional highlights">
+      <div class="hero-stats__grid">
+        <div class="hero-stat-card">
+          <p class="hero-stat-label">Current Role</p>
+          <p class="hero-stat-value">Assistant Professor</p>
+        </div>
+        <div class="hero-stat-card">
+          <p class="hero-stat-label">Affiliation</p>
+          <p class="hero-stat-value">UVA Computer Science</p>
+        </div>
+        <div class="hero-stat-card">
+          <p class="hero-stat-label">Research Theme</p>
+          <p class="hero-stat-value">Differential Privacy in Practice</p>
+        </div>
+      </div>
+    </section>
+
+    <div id="main" role="main">
+      <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+
+        <div class="page__inner-wrap">
+          <section class="page__content" itemprop="text">
+            {{ content }}
+          </section>
+        </div>
+      </article>
+    </div>
+
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+
+  </body>
+</html>

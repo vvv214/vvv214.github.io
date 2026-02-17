@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby "~> 4.0.0"
+ruby "~> 3.2"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -13,7 +13,7 @@ ruby "~> 4.0.0"
 
 # gem "github-pages", group: :jekyll_plugins
 gem "jekyll", "~> 4.3"
-gem "webrick", "~> 1.9"
+gem "webrick", "~> 1.8"
 gem "bundler", ">= 2.4"
 
 # If you have any plugins, put them here!

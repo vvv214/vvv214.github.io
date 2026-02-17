@@ -1,0 +1,76 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body class="startup-site{% if page.permalink == '/' %} startup-home{% endif %}">
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    {% if page.author and site.data.authors[page.author] %}
+      {% assign author = site.data.authors[page.author] %}
+    {% else %}
+      {% assign author = site.author %}
+    {% endif %}
+
+    {% if page.permalink == '/' %}
+      <section class="startup-hero" aria-label="Hero">
+        <div class="site-shell startup-hero__inner">
+          <div class="startup-hero__main">
+            <h1 class="startup-hero__name">{{ author.name }}</h1>
+            <p class="startup-hero__focus">Differential privacy, trustworthy machine learning, and deployable privacy-preserving systems.</p>
+            <div class="startup-hero__links">
+              {% if author.email %}<a href="mailto:{{ author.email }}">Email</a>{% endif %}
+              {% if author.googlescholar %}<a href="{{ author.googlescholar }}">Google Scholar</a>{% endif %}
+              {% if author.github %}<a href="https://github.com/{{ author.github }}">GitHub</a>{% endif %}
+              {% if author.twitter %}<a href="https://twitter.com/{{ author.twitter }}">Twitter</a>{% endif %}
+              <a href="{{ base_path }}/files/cv.pdf">CV</a>
+            </div>
+          </div>
+
+          <aside class="startup-hero__identity" aria-label="Profile">
+            {% if author.avatar %}
+              {% if author.avatar contains "://" %}
+                <img src="{{ author.avatar }}" alt="{{ author.name }}" class="startup-avatar">
+              {% else %}
+                <img src="{{ author.avatar | prepend: '/images/' | prepend: base_path }}" alt="{{ author.name }}" class="startup-avatar">
+              {% endif %}
+            {% endif %}
+            <p class="startup-identity__line">Assistant Professor</p>
+            <p class="startup-identity__line">University of Virginia</p>
+            <p class="startup-identity__line">Computer Science</p>
+          </aside>
+        </div>
+      </section>
+    {% endif %}
+
+    <main class="site-shell startup-main" role="main">
+      <article class="startup-content">
+        {% if page.permalink != '/' and page.title %}
+          <header class="startup-page-head">
+            <h1>{{ page.title }}</h1>
+          </header>
+        {% endif %}
+
+        {{ content }}
+      </article>
+    </main>
+
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+  </body>
+</html>

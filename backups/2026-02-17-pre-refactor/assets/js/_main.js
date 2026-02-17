@@ -3,22 +3,9 @@
    ========================================================================== */
 
 document.addEventListener('DOMContentLoaded', () => {
-  // Keep full-page navigation deterministic: no stale restored scroll position.
-  if ('scrollRestoration' in window.history) {
-    window.history.scrollRestoration = 'manual';
-  }
-
-  // Always start at page top on full-page navigation unless URL has an anchor.
-  if (!window.location.hash) {
-    window.scrollTo(0, 0);
-  }
-
   // Sticky footer
-  const pageFooter = document.querySelector('.page__footer');
   const bumpIt = () => {
-    if (pageFooter) {
-      document.body.style.marginBottom = `${pageFooter.offsetHeight}px`;
-    }
+    document.body.style.marginBottom = `${document.querySelector('.page__footer').offsetHeight}px`;
   };
   let didResize = false;
 
@@ -39,50 +26,38 @@ document.addEventListener('DOMContentLoaded', () => {
   $('#main').fitVids();
 
   // init sticky sidebar
-  if (typeof Stickyfill !== 'undefined' && document.querySelector('.sticky')) {
+  if (document.querySelector('.sticky')) {
     Stickyfill.add(document.querySelectorAll('.sticky'));
   }
 
 
   const stickySideBar = () => {
-    const followButton = document.querySelector('.author__urls-wrapper button');
-    const authorUrls = document.querySelector('.author__urls');
-    if (!followButton || !authorUrls) {
-      return;
-    }
-
     const MINIMUM_WIDTH = 1024;
 
     // Adjust if the follow button is shown based upon screen size
     const width = window.innerWidth;
-    let show = width > MINIMUM_WIDTH;
+    let show = document.querySelector('.author__urls-wrapper button') ? width > MINIMUM_WIDTH : !document.querySelector('.author__urls-wrapper button').offsetParent;
 
     // Don't show the follow button if there is no content for it
-    const count = document.querySelectorAll('.author__urls.social-icons li:not(.author__desktop)').length;
-    if (count === 0) {
-      followButton.style.display = 'none';
-      authorUrls.style.display = 'none';
+    const count = document.querySelectorAll('.author__urls.social-icons li').length - document.querySelectorAll('li[class="author__desktop"]').length;
+    if (width <= MINIMUM_WIDTH && count === 0) {
+      document.querySelector('.author__urls-wrapper button').style.display = 'none';
       show = false;
-    } else {
-      followButton.style.display = width <= MINIMUM_WIDTH ? 'inline-block' : 'none';
-      if (width <= MINIMUM_WIDTH) {
-        show = followButton.classList.contains('open');
-      }
     }
 
     if (show) {
       // fix
-      if (typeof Stickyfill !== 'undefined' && document.querySelector('.sticky')) {
+      if (document.querySelector('.sticky')) {
         Stickyfill.rebuild();
         Stickyfill.init();
       }
-      authorUrls.style.display = 'block';
+      document.querySelector('.author__urls').style.display = 'block';
     } else {
       // unfix
-      if (typeof Stickyfill !== 'undefined' && document.querySelector('.sticky')) {
+      if (document.querySelector('.sticky')) {
         Stickyfill.stop();
       }
-      authorUrls.style.display = 'none';
+      document.querySelector('.author__urls').style.display = 'none';
     }
   };
 
@@ -93,16 +68,13 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   // Follow menu drop down
-  const followButton = document.querySelector('.author__urls-wrapper button');
-  if (followButton) {
-    followButton.addEventListener('click', () => {
-      $('.author__urls').fadeToggle('fast', () => {});
-      followButton.classList.toggle('open');
-    });
-  }
+  document.querySelector('.author__urls-wrapper button').addEventListener('click', () => {
+    $('.author__urls').fadeToggle('fast', () => {});
+    document.querySelector('.author__urls-wrapper button').classList.toggle('open');
+  });
 
   // init smooth scroll, this needs to be slightly more than then fixed masthead height
-  $('a[href*="#"]').smoothScroll({ offset: -72 });
+  $('a').smoothScroll({ offset: -65 });
 
   // add lightbox class to all image links
   document.querySelectorAll("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").forEach(item => {

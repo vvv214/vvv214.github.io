@@ -1,7 +1,6 @@
 ---
 title: "Publications"
 permalink: /publications/
-layout: startup
 author_profile: true
 redirect_from:
   - /publications.html

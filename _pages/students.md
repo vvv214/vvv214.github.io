@@ -2,6 +2,7 @@
 permalink: /students/
 title: "Students"
 excerpt: "Students"
+layout: startup
 author_profile: true
 redirect_from:
   - /students.html

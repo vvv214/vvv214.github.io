@@ -2,6 +2,7 @@
 permalink: /misc/
 title: "Miscellaneous"
 excerpt: "Misc."
+layout: startup
 author_profile: true
 redirect_from:
   - /misc.html
